@@ -1,16 +1,5 @@
 # doctor
 
-A new Flutter project.
+🎨System Design
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="345" height="467" alt="Annotation 2025-07-01 020857" src="https://github.com/user-attachments/assets/3ed56bba-6208-4019-a0e4-60227c5e6741" />
